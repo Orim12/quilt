@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.Orim12.Test_mod.Test_mod"
+			"init": "com.Orim12.Test_mod.test_mod"
 		},
 		"depends": [
 			{
