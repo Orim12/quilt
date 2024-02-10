@@ -9,7 +9,7 @@ import org.quiltmc.qsl.item.setting.api.QuiltItemSettings;
 
 public class ModItems {
 
-	public static final Item Test_item = registerItem("test-item",
+	public static final Item test_item = registerItem("test_item",
 		new Item(new QuiltItemSettings().group(ItemGroup.MISC)));
 
 	private static Item registerItem(String name, Item item){
